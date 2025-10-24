@@ -9,3 +9,8 @@ I hope, I will be able to overcome the challenges and become a real expert.
 Cheers!
 
 
+Hello Word repository to start exploring GitHub
+
+This is an addition to the Hello World! README file.
+
+This is a test. 
